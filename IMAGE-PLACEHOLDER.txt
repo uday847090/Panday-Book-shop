@@ -1,3 +1,0 @@
-No external product images are required for this first version.
-The site uses CSS-built 3D product visuals so the design works immediately.
-Real product photos can be added later without changing the product/card system.
